@@ -2,6 +2,8 @@
 
 Classic Snake game built with plain HTML, CSS, and JavaScript.
 
+Live demo: https://eriondalti.github.io/dragon_snake/
+
 ## Run
 
 Open `index.html` directly in a browser, or run a simple local server:
